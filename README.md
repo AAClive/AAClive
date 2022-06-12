@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @AAClive
-- 👀 I’m interested in progamming and computer science
-- 🌱 I’m currently learning C++
+hey :D
+
